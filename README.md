@@ -1,3 +1,5 @@
-Hi i have kept all my Repos Private.
-If you are interviewing me and you want to see them let me know I will show them to you through Screen share.
-As for security reason I cannot make them public. 
+Hi, welcome to my profile!
+I have many other projects which I have worked on and if you are intrested to know about them,
+Drop me a message.
+                          
+Glad to have you here   ;)                      
