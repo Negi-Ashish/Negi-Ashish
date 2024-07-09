@@ -19,15 +19,15 @@
 
 - 🤝 I’m looking for help with [GemmyBotClub](https://github.com/Negi-Ashish/GemmyBot-1-Online)
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ashishnegiweb3/details/projects/](https://www.linkedin.com/in/ashishnegiweb3/details/projects/)
+- 👨‍💻 All of my projects are available at [MyProjects](https://www.linkedin.com/in/ashishnegiweb3/details/projects/)
 
-- 📝 I regularly write articles on [https://medium.com/@Ashish_Negi](https://medium.com/@Ashish_Negi)
+- 📝 I regularly write articles on [Medium](https://medium.com/@Ashish_Negi)
 
 - 💬 Ask me about **ReactJS, NodeJS, NextJS, Ethereum, Theta Network, etc**
 
 - 📫 How to reach me **ashishnegi0511@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ashishnegiweb3/](https://www.linkedin.com/in/ashishnegiweb3/)
+- 📄 Know about my experiences [MyExperience](https://www.linkedin.com/in/ashishnegiweb3/)
 
 - ⚡ Fun fact **I am a FIDE Rated Chess Player**
 
