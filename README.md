@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dontkillme&label=Profile%20views&color=0e75b6&style=flat" alt="dontkillme" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dontkillme" alt="dontkillme" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dontkillme&row=1&column=2" alt="dontkillme" />
+  </a>
+</p>
 
 <p align="left"> <a href="https://twitter.com/_ashish_negi_" target="blank"><img src="https://img.shields.io/twitter/follow/_ashish_negi_?logo=twitter&style=for-the-badge" alt="_ashish_negi_" /></a> </p>
 
@@ -46,4 +50,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dontkillme&show_icons=true&locale=en" alt="dontkillme" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dontkillme&" alt="dontkillme" /></p>
