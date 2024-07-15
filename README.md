@@ -1,10 +1,10 @@
 <h2 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> प्रणाम 🙏🏻 (Pranaam) I am Ashish Negi and I'm a Full Stack Developer, from  India<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></h2>
-<img align="left" height="150" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*FEqUC95fvRVKAdi2y871Lw.png"  />
+<img src="./.github/workflows/githubBanner.png">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
 
 
 <div align="center">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Negi-Ashish&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Negi-Ashish&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -93,6 +93,7 @@
 
 ###
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <img src="./.github/workflows/fantasticDay.svg">
 <img src="https://raw.githubusercontent.com/Negi-Ashish/Negi-Ashish/output/snake.svg" alt="Snake animation" />
 
