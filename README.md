@@ -1,4 +1,8 @@
-<h2 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> प्रणाम 🙏🏻 (Pranaam) I am Ashish Negi and I'm a Full Stack Developer, from  India<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></h2>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A3%E0%A4%BE%E0%A4%AE+%F0%9F%99%8F%F0%9F%8F%BB+(Pranaam)!;I+am+Ashish+Negi+from++%F0%9F%87%AE%F0%9F%87%B3;I'm+a+Full-Stack%2C+Blockchain+Dev;Always+Learning+New+Things;5%2B+years+of+coding+Experience" alt="Typing SVG" /></a>
+</p>
 
 <img src="./.github/workflows/githubBannerTransperent.png">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
