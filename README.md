@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Negi-Ashish&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Negi-Ashish&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -93,9 +93,7 @@
 
 ###
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
-<br clear="both">
-
+<img src="./.github/workflows/fantasticDay.svg">
 <img src="https://raw.githubusercontent.com/Negi-Ashish/Negi-Ashish/output/snake.svg" alt="Snake animation" />
 
 ###
