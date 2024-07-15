@@ -1,5 +1,5 @@
 <h2 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> प्रणाम 🙏🏻 (Pranaam) I am Ashish Negi and I'm a Full Stack Developer, from  India<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></h2>
-<img src="./.github/workflows/githubBanner.png">
+<img src="./.github/workflows/githubBannerTransperent.png">
 
 
 
