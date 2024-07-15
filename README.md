@@ -1,6 +1,7 @@
 <h2 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> प्रणाम 🙏🏻 (Pranaam) I am Ashish Negi and I'm a Full Stack Developer, from  India<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></h2>
-<img src="./.github/workflows/githubBannerTransperent.png">
 
+<img src="./.github/workflows/githubBannerTransperent.png">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 <div align="center">
@@ -18,7 +19,7 @@
 
 
 ###
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center">
   <a href="https://www.youtube.com/@ashishnegi2219" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
