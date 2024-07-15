@@ -74,6 +74,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <img src="./.github/workflows/fantasticDay.svg">
+
 <img src="https://raw.githubusercontent.com/Negi-Ashish/Negi-Ashish/output/snake.svg" alt="Snake animation" />
 
 ###
