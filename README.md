@@ -93,6 +93,7 @@
 
 ###
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Negi-Ashish/Negi-Ashish/output/snake.svg" alt="Snake animation" />
